@@ -1,2 +1,2 @@
-# HuaweiU19XXRecorder
+# Huawei U19XX Recorder
 Huawei espace U19XX is a unified communication solution provided by Huawei. This is a powerful PBX server to handle telephony services for corporate environments. This is being widely used all over the world. The espace recording solution provide by Huawei is costly. So I have developed a asterisk based call recording solution for Huawei U19XX with web interface to download and listen recording files. This solution was specifically designed for Huawei U19XX but it is not only restricted to this server. It can be integrated with any SIP based PBX.
